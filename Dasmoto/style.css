@@ -1,0 +1,49 @@
+*{
+  font-family: Helvetica;
+}
+
+
+.banner{
+  background-image: url("Resources/Images/pattern.jpeg");
+  background-position: center;
+  background-size: 4000px;
+  filter: brightness(90%);
+}
+
+#bannertext{
+  display: block;
+}
+
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  filter: brightness(125%);
+}
+
+h2.brushes{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+h2.frames{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+h2.paint{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.startingat{
+  font-weight: bold;
+  color: blue;
+}
